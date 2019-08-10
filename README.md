@@ -1,7 +1,8 @@
 # deeplearning
 
 ### <a name="regularization"></a>Regularization for Deep Learning  
-```Required Reading:
+```
+Required Reading:
 ```
 * [Chapter 7](http://www.deeplearningbook.org/contents/regularization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
     * Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem
