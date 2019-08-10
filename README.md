@@ -1,7 +1,6 @@
 # deeplearning
 
 ### <a name="regularization"></a>Regularization for Deep Learning  
-
     ```
     Required Reading:
     ```
