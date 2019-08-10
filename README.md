@@ -16,9 +16,9 @@ Required Reading:
 
 ### <a name="optimization"></a>Optimization for Training Deep Models  
 
-    ```
+```
     Required Reading:
-    ```  
+```  
 
 * [Chapter 8](http://www.deeplearningbook.org/contents/optimization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
     * Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem
