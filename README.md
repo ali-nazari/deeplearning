@@ -1,5 +1,9 @@
 # deeplearning
 
+### <a name="size_data"></a>Amount of Data for Deep Learning  
+* Blog: [How Do You Know You Have Enough Training Data?](https://towardsdatascience.com/how-do-you-know-you-have-enough-training-data-ad9b1fd679ee) by Theophano Mitsa
+
+
 ### <a name="regularization"></a>Regularization for Deep Learning  
 ```
 Required Reading:
