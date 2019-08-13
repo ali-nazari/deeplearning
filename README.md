@@ -3,6 +3,7 @@
 ### <a name="size_data"></a>Amount of Data for Deep Learning  
 * Blog: [How Do You Know You Have Enough Training Data?](https://towardsdatascience.com/how-do-you-know-you-have-enough-training-data-ad9b1fd679ee) by Theophano Mitsa
 * Blog: [One in ten rule](https://en.wikipedia.org/wiki/One_in_ten_rule) in Wikipedia
+* Paper: [Deep Learning Scaling is Predictable, Empirically](https://arxiv.org/pdf/1712.00409.pdf) by J. Hestness, et al.
 
 
 ### <a name="regularization"></a>Regularization for Deep Learning  
