@@ -2,6 +2,7 @@
 
 ### <a name="lecture"></a>Good Lectures in Deep learning
    * Book: [Deep Learning](https://www.deeplearningbook.org) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+   * Lecture: [Overview of ways to improve generalization](http://www.cs.toronto.edu/~hinton/coursera/lecture9/lec9.pdf) by Geoffrey Hinton, et al.
 
 ### <a name="size_data"></a>Amount of Data for Deep Learning  
 * Blog: [How Do You Know You Have Enough Training Data?](https://towardsdatascience.com/how-do-you-know-you-have-enough-training-data-ad9b1fd679ee) by Theophano Mitsa
