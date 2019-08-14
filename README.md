@@ -1,5 +1,20 @@
 # deeplearning
 
+---
+
+### **Index:**
+- [Good Lectures in Deep learning](#lecture)
+- [Amount of Data for Deep Learning](#size_data)
+- [Datasets for Deep Learning](#datasets)
+- [Regularization for Deep Learning](#regularization)
+- [Optimization for Training Deep Models](#optimization)
+- [CNN in Deep learning ](#cnn)
+- [Keras](#keras)
+- [GAN](#gan)
+
+
+---
+
 ### <a name="lecture"></a>Good Lectures in Deep learning
    * Book: [Deep Learning](https://www.deeplearningbook.org) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
    * Lecture: [Overview of ways to improve generalization](http://www.cs.toronto.edu/~hinton/coursera/lecture9/lec9.pdf) by Geoffrey Hinton, et al.
@@ -9,7 +24,7 @@
 * Blog: [One in ten rule](https://en.wikipedia.org/wiki/One_in_ten_rule) in Wikipedia
 * Paper: [Deep Learning Scaling is Predictable, Empirically](https://arxiv.org/pdf/1712.00409.pdf) by J. Hestness, et al.
 
-### <a name="dataset"></a>Datasets for Deep Learning
+### <a name="datasets"></a>Datasets for Deep Learning
 Blog: [Visual Data](https://www.visualdata.io)
 
 ### <a name="regularization"></a>Regularization for Deep Learning  
