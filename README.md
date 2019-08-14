@@ -5,6 +5,8 @@
 * Blog: [One in ten rule](https://en.wikipedia.org/wiki/One_in_ten_rule) in Wikipedia
 * Paper: [Deep Learning Scaling is Predictable, Empirically](https://arxiv.org/pdf/1712.00409.pdf) by J. Hestness, et al.
 
+### <a name="dataset"></a>Datasets for Deep Learning
+Blog: [Visual Data](https://www.visualdata.io)
 
 ### <a name="regularization"></a>Regularization for Deep Learning  
 ```
@@ -45,3 +47,5 @@ Required Reading:
    * Slide: [Conjugate Gradient Descent](http://www.cs.cmu.edu/~pradeepr/convexopt/Lecture_Slides/conjugate_direction_methods.pdf) by Aarti Singh
    * Blog: [Orthogonal Matrix](https://en.wikipedia.org/wiki/Orthogonal_matrix) in Wikipedia
 
+### <a name="cnn"></a>CNN in Deep learning 
+* Blog: [A Comprehensive Tutorial to learn Convolutional Neural Networks from Scratch](https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/) by PULKIT SHARMA
