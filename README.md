@@ -49,3 +49,6 @@ Required Reading:
 
 ### <a name="cnn"></a>CNN in Deep learning 
 * Blog: [A Comprehensive Tutorial to learn Convolutional Neural Networks from Scratch](https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/) by PULKIT SHARMA
+
+### <a name="keras"></a>Keras
+Blog:[How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee
