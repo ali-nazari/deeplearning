@@ -52,4 +52,4 @@ Required Reading:
 
 ### <a name="keras"></a>Keras
 Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee
-Blog: [https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by by Jason Brownlee
+Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by by Jason Brownlee
