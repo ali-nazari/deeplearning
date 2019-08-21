@@ -1,6 +1,8 @@
 
 GRAPH CONVOLUTIONAL NETWORKS
-http://tkipf.github.io/graph-convolutional-networks/
+
+  * Paper: [The graph neural network model](https://persagen.com/files/misc/scarselli2009graph.pdf) 
+  * Blog: http://tkipf.github.io/graph-convolutional-networks/
 
 Blog: [Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search](https://github.com/intel-isl/nphard)
 
