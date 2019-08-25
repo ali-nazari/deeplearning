@@ -77,6 +77,8 @@ Required Reading:
   * Blog: [ECho State Network](https://en.wikipedia.org/wiki/Echo_state_network) in Wikipedia
   * Paper: [How to Construct Deep Recurrent Neural Networks](https://arxiv.org/abs/1312.6026)
   * Person: [Alex Graves](https://www.cs.toronto.edu/~graves/)
+  
+  * Blog:[Reservoir Computing](https://www.researchgate.net/post/what_is_the_realitionship_between_deep_learning_methods_and_reservoir_computing_if_any)
 
 ### <a name="keras"></a>Keras
    * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee
