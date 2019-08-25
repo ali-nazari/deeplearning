@@ -73,6 +73,10 @@ Required Reading:
 
 ### <a name="rnn"></a>RNN in Deep learning 
   * Slide: [ECho State Network](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf)
+  * Blog: [ECho State Network](http://www.scholarpedia.org/article/Echo_state_network) by Herbert Jaeger
+  * Blog: [ECho State Network](https://en.wikipedia.org/wiki/Echo_state_network) in Wikipedia
+  * Paper: [How to Construct Deep Recurrent Neural Networks](https://arxiv.org/abs/1312.6026)
+  * Person: [Alex Graves](https://www.cs.toronto.edu/~graves/)
 
 ### <a name="keras"></a>Keras
    * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee
