@@ -72,13 +72,14 @@ Required Reading:
 * Blog: [Depth wise Separable Convolutional Neural Networks](https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/)
 
 ### <a name="rnn"></a>RNN in Deep learning 
+  * Blog: [Gentle introduction to Echo State Networks](https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68)
   * Slide: [ECho State Network](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf)
   * Blog: [ECho State Network](http://www.scholarpedia.org/article/Echo_state_network) by Herbert Jaeger
   * Blog: [ECho State Network](https://en.wikipedia.org/wiki/Echo_state_network) in Wikipedia
   * Paper: [How to Construct Deep Recurrent Neural Networks](https://arxiv.org/abs/1312.6026)
   * Person: [Alex Graves](https://www.cs.toronto.edu/~graves/)
-  
-  * Blog:[Reservoir Computing](https://www.researchgate.net/post/what_is_the_realitionship_between_deep_learning_methods_and_reservoir_computing_if_any)
+  * Blog: [Reservoir Computing](https://www.researchgate.net/post/what_is_the_realitionship_between_deep_learning_methods_and_reservoir_computing_if_any)
+  * Code: [ESN](https://github.com/ciortanmadalina/EchoStateNetwork/blob/master/EchoStateNetwork.ipynb)
 
 ### <a name="keras"></a>Keras
    * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee
