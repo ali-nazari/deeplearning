@@ -89,6 +89,7 @@ Required Reading:
 
 ### <a name="autoencoder">Autoencoder
   * Blog: [Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/) by Jeremy Jordan
+  * Paper: [What Regularized Auto-Encoders Learn from the Data Generating Distribution](https://arxiv.org/abs/1211.4246) by  Guillaume Alain, Yoshua Bengio
 
 ### <a name="gan"></a>GAN
   * Video: [Adversarial Machine Learning](https://videos.videoken.com/index.php/videos/aaai-2019-videos-invited-talk-ian-goodfellow-google-ai-adversarial-machine-learning/) by Ian Goodfellow 
