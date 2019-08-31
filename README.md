@@ -10,6 +10,7 @@
 - [Optimization for Training Deep Models](#optimization)
 - [CNN in Deep learning ](#cnn)
 - [Keras](#keras)
+- [Autoencoder](#autoencoder)
 - [GAN](#gan)
 
 
