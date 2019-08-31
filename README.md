@@ -86,5 +86,8 @@ Required Reading:
    * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee
    * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by by Jason Brownlee
 
+### <a name="autoencoder">Autoencoder
+  * Blog: [Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/) by Jeremy Jordan
+
 ### <a name="gan"></a>GAN
   * Video: [Adversarial Machine Learning](https://videos.videoken.com/index.php/videos/aaai-2019-videos-invited-talk-ian-goodfellow-google-ai-adversarial-machine-learning/) by Ian Goodfellow 
