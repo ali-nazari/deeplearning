@@ -4,6 +4,7 @@
 
 ### **Index:**
 - [Good Lectures in Deep learning](#lecture)
+- [History](#history)
 - [Amount of Data for Deep Learning](#size_data)
 - [Datasets for Deep Learning](#datasets)
 - [Regularization for Deep Learning](#regularization)
@@ -21,6 +22,9 @@
    * Lecture: [Deep Learning Course](https://cedar.buffalo.edu/~srihari/CSE676/index.html) Complete Lectures for Deep Learning Course by Sargur Srihari
    * Lecture: [Overview of ways to improve generalization](http://www.cs.toronto.edu/~hinton/coursera/lecture9/lec9.pdf) by Geoffrey Hinton, et al.
 
+### <a name="history"></a>History of Deep Learning  
+  * Paper: [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800) by Haohan Wang and Bhiksha Raj
+  
 ### <a name="size_data"></a>Amount of Data for Deep Learning  
 * Blog: [How Do You Know You Have Enough Training Data?](https://towardsdatascience.com/how-do-you-know-you-have-enough-training-data-ad9b1fd679ee) by Theophano Mitsa
 * Blog: [One in ten rule](https://en.wikipedia.org/wiki/One_in_ten_rule) in Wikipedia
