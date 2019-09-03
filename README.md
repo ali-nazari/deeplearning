@@ -33,6 +33,9 @@
 ### <a name="datasets"></a>Datasets for Deep Learning
 Blog: [Visual Data](https://www.visualdata.io)
 
+### <a name="lab"></a> Lab
+  * Blog: [Step-by-step Guide to Install TensorFlow 2](https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265)
+  
 ### <a name="regularization"></a>Regularization for Deep Learning  
 ```
 Required Reading:
