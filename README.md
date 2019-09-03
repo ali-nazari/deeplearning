@@ -7,6 +7,7 @@
 - [History of Deep Learning](#history)
 - [Amount of Data for Deep Learning](#size_data)
 - [Datasets for Deep Learning](#datasets)
+- [Lab: Tools and Codes](#lab)
 - [Regularization for Deep Learning](#regularization)
 - [Optimization for Training Deep Models](#optimization)
 - [CNN in Deep learning ](#cnn)
@@ -31,9 +32,9 @@
 * Paper: [Deep Learning Scaling is Predictable, Empirically](https://arxiv.org/pdf/1712.00409.pdf) by J. Hestness, et al.
 
 ### <a name="datasets"></a>Datasets for Deep Learning
-Blog: [Visual Data](https://www.visualdata.io)
+  * Blog: [Visual Data](https://www.visualdata.io)
 
-### <a name="lab"></a> Lab
+### <a name="lab"></a> Lab: Tools and Codes
   * Blog: [Step-by-step Guide to Install TensorFlow 2](https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265)
   
 ### <a name="regularization"></a>Regularization for Deep Learning  
