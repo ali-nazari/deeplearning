@@ -14,6 +14,7 @@
 - [Keras](#keras)
 - [Autoencoder](#autoencoder)
 - [GAN](#gan)
+- [miscellany](#misc)
 
 
 ---
@@ -103,3 +104,6 @@ Required Reading:
 
 ### <a name="gan"></a>GAN
   * Video: [Adversarial Machine Learning](https://videos.videoken.com/index.php/videos/aaai-2019-videos-invited-talk-ian-goodfellow-google-ai-adversarial-machine-learning/) by Ian Goodfellow 
+
+### <a name="misc"></a>Miscellaneous Matterials
+  * Presentation: [Scaling Deep Learning on Multi-GPU Servers](https://discan18.github.io/assets/presentations/peter.pdf)
