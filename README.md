@@ -36,6 +36,7 @@
 
 ### <a name="lab"></a> Lab: Tools and Codes
   * Blog: [Step-by-step Guide to Install TensorFlow 2](https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265)
+  * Blog: [Tensorflow Hub](https://www.tensorflow.org/hub)a library for the publication, discovery, and consumption of reusable parts of machine learning models
   
 ### <a name="regularization"></a>Regularization for Deep Learning  
 ```
