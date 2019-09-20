@@ -39,6 +39,7 @@
   * Blog: [Step-by-step Guide to Install TensorFlow 2](https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265)
   * Blog: [Tensorflow Hub](https://www.tensorflow.org/hub) A library for the publication, discovery, and consumption of reusable parts of machine learning models
   * Blog: [TensorFlow Models](https://github.com/tensorflow/models/) A repository contains a number of different models implemented in TensorFlow
+  * Software: [Learning rate multiplier wrapper for optimizers](https://pypi.org/project/keras-lr-multiplier/)
   
 ### <a name="regularization"></a>Regularization for Deep Learning  
 ```
@@ -65,8 +66,9 @@ Required Reading:
     * Slide: [Gradient Descent and Structure of Neural Network Cost Functions](https://www.deeplearningbook.org/slides/sgd_and_cost_structure.pdf) by Ian Goodfellow
     * Slide: [Tutorial on Optimization for Deep Networks](https://www.deeplearningbook.org/slides/dls_2016.pdf) by Ian Goodfellow    
     * Blog: [Neural Network Optimization](https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0) by Matthew Stewart  
-    * Slide: [Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/) by Sunita Nayak  
- 
+    * Slide: [Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/) by Sunita Nayak 
+    * Blog: [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/) by Sebastian Ruder
+    
     ```
     Additional Reading:
     ```
