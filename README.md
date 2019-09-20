@@ -43,10 +43,16 @@
   * Software: [Learning rate multiplier wrapper for optimizers](https://pypi.org/project/keras-lr-multiplier/)
   
     ```
-    Specialized Reading:
+    Data Processing in Tensorflow
     ```
   * Blog: [Datasets for Estimators](https://www.tensorflow.org/guide/datasets_for_estimators)
   * Blog: [Feature Columns](https://www.tensorflow.org/guide/feature_columns)
+    ```
+    Decoration in Tensorflow
+    ```
+  * Blog: [tf.function](https://www.tensorflow.org/beta/tutorials/eager/tf_function) converts a python method to its computation graph in TF
+    
+  
   
 ### <a name="regularization"></a>Regularization for Deep Learning  
 ```
