@@ -51,8 +51,7 @@
     Decoration in Tensorflow
     ```
   * Blog: [tf.function](https://www.tensorflow.org/beta/tutorials/eager/tf_function) converts a python method to its computation graph in TF
-  * Blog: [Analyzing tf.function to discover AutoGraph strengths and subtleties]
-     (https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-1/)
+  * Blog: [Analyzing tf.function to discover AutoGraph strengths and subtleties](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-1/)
   [, part-2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/)
   [, part-3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)
     
