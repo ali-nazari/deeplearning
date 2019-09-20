@@ -41,6 +41,11 @@
   * Blog: [TensorFlow Models](https://github.com/tensorflow/models/) A repository contains a number of different models implemented in TensorFlow
   * Software: [Learning rate multiplier wrapper for optimizers](https://pypi.org/project/keras-lr-multiplier/)
   
+    ```
+    Specialized Reading:
+    ```
+  * Blog: [Datasets for Estimators](https://www.tensorflow.org/guide/datasets_for_estimators)
+  
 ### <a name="regularization"></a>Regularization for Deep Learning  
 ```
 Required Reading:
