@@ -13,6 +13,7 @@
 - [CNN in Deep learning ](#cnn)
 - [Keras](#keras)
 - [Autoencoder](#autoencoder)
+- [Representation Learning](#representation)
 - [GAN](#gan)
 - [miscellany](#misc)
 
@@ -124,6 +125,9 @@ Required Reading:
 ### <a name="autoencoder">Autoencoder
   * Blog: [Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/) by Jeremy Jordan
   * Paper: [What Regularized Auto-Encoders Learn from the Data Generating Distribution](https://arxiv.org/abs/1211.4246) by  Guillaume Alain, Yoshua Bengio
+  
+### <a name="representation">Representation Learning
+  * Blog: [How neural networks learn distributed representations](https://www.oreilly.com/ideas/how-neural-networks-learn-distributed-representations)
 
 ### <a name="gan"></a>GAN
   * Video: [Adversarial Machine Learning](https://videos.videoken.com/index.php/videos/aaai-2019-videos-invited-talk-ian-goodfellow-google-ai-adversarial-machine-learning/) by Ian Goodfellow 
