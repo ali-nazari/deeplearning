@@ -54,8 +54,13 @@
   * Blog: [Analyzing tf.function to discover AutoGraph strengths and subtleties](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-1/)
   [, part-2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/)
   [, part-3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)
-    
   
+     ```
+    TensorBoard
+    ```
+   * Blog: [Introduction to TensorBoard and TensorFlow visualization](https://adventuresinmachinelearning.com/introduction-to-tensorboard-and-tensorflow-visualization/)
+   * Blog: [Introduction to TensorBoard](https://www.easy-tensorflow.com/tf-tutorials/basics/introduction-to-tensorboard)
+   * Blog: [TensorBoard Tutorial](https://www.datacamp.com/community/tutorials/tensorboard-tutorial)
   
 ### <a name="regularization"></a>Regularization for Deep Learning  
 ```
