@@ -64,7 +64,8 @@
   
 ## <a name="content"></a>Main Content: Slides, lectures and academic descriptions of DL concepts
 
-1.  ### <a name="introduction"></a>Introduction to Deep Learning  
+1.  ### <a name="introduction"></a>Introduction to Deep Learning
+  * Blog: [Tensor](https://en.wikipedia.org/wiki/Tensor)
   * Blog: [Understanding Tensors and Graphs](https://www.analyticsvidhya.com/blog/2017/03/tensorflow-understanding-tensors-and-graphs/)
   * Blog: [Differences between tensors and multidimensional arrays](https://math.stackexchange.com/questions/1134809/are-there-any-differences-between-tensors-and-multidimensional-arrays) A "tensor" is a multilinear function of several vector variables
   * Blog: [Understanding the definition of tensors as multilinear maps](https://math.stackexchange.com/questions/2138459/understanding-the-definition-of-tensors-as-multilinear-maps)
