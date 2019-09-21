@@ -8,14 +8,15 @@
 - [Amount of Data for Deep Learning](#size_data)
 - [Datasets for Deep Learning](#datasets)
 - [Lab: Tools and Codes](#lab)
-- [Introduction to Deep Learning](#introduction)
-- [Regularization for Deep Learning](#regularization)
-- [Optimization for Training Deep Models](#optimization)
-- [CNN in Deep learning ](#cnn)
 - [Keras](#keras)
-- [Autoencoder](#autoencoder)
-- [Representation Learning](#representation)
-- [GAN](#gan)
+- [Main Content](#content)
+  1. [Introduction to Deep Learning](#introduction)
+  2. [Regularization for Deep Learning](#regularization)
+  3. [Optimization for Training Deep Models](#optimization)
+  4. [CNN in Deep learning ](#cnn)
+  5. [Autoencoder](#autoencoder)
+  6. [Representation Learning](#representation)
+  7. [GAN](#gan)
 - [miscellany](#misc)
 
 
@@ -62,26 +63,32 @@
    * Blog: [Introduction to TensorBoard and TensorFlow visualization](https://adventuresinmachinelearning.com/introduction-to-tensorboard-and-tensorflow-visualization/)
    * Blog: [Introduction to TensorBoard](https://www.easy-tensorflow.com/tf-tutorials/basics/introduction-to-tensorboard)
    * Blog: [TensorBoard Tutorial](https://www.datacamp.com/community/tutorials/tensorboard-tutorial)
+ 
+ ### <a name="keras"></a>Keras
+   * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee
+   * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by by Jason Brownlee
   
-### <a name="introduction"></a>Introduction to Deep Learning  
+## <a name="content"></a>Main Content: Slides, lectures and academic descriptions of DL concepts
+
+1.  ### <a name="introduction"></a>Introduction to Deep Learning  
   * Blog: [Understanding Tensors and Graphs](https://www.analyticsvidhya.com/blog/2017/03/tensorflow-understanding-tensors-and-graphs/)
   * Blog: [Differences between tensors and multidimensional arrays](https://math.stackexchange.com/questions/1134809/are-there-any-differences-between-tensors-and-multidimensional-arrays) A "tensor" is a multilinear function of several vector variables
   * Blog: [Understanding the definition of tensors as multilinear maps](https://math.stackexchange.com/questions/2138459/understanding-the-definition-of-tensors-as-multilinear-maps)
 
-### <a name="regularization"></a>Regularization for Deep Learning  
+2.  ### <a name="regularization"></a>Regularization for Deep Learning  
 ```
 Required Reading:
 ```
-* [Chapter 7](http://www.deeplearningbook.org/contents/regularization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+  * [Chapter 7](http://www.deeplearningbook.org/contents/regularization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
     * Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem
-    ```
+```
     Additional Reading:
-    ```
-    * [How to Improve Deep Learning Model Robustness by Adding Noise](https://machinelearningmastery.com/how-to-improve-deep-learning-model-robustness-by-adding-noise/) by Jason Brownlee 
+```
+  * [How to Improve Deep Learning Model Robustness by Adding Noise](https://machinelearningmastery.com/how-to-improve-deep-learning-model-robustness-by-adding-noise/) by Jason Brownlee 
     * Slide: [Regularization for Deep Learning](https://www.deeplearningbook.org/slides/07_regularization.pdf)  by Ian Goodfellow
 
 
-### <a name="optimization"></a>Optimization for Training Deep Models  
+3.  ### <a name="optimization"></a>Optimization for Training Deep Models  
     ```
       Required Reading:
     ```
@@ -103,12 +110,12 @@ Required Reading:
    * Slide: [Conjugate Gradient Descent](http://www.cs.cmu.edu/~pradeepr/convexopt/Lecture_Slides/conjugate_direction_methods.pdf) by Aarti Singh
    * Blog: [Orthogonal Matrix](https://en.wikipedia.org/wiki/Orthogonal_matrix) in Wikipedia
 
-### <a name="cnn"></a>CNN in Deep learning 
+4.  ### <a name="cnn"></a>CNN in Deep learning 
 * Blog: [A Comprehensive Tutorial to learn Convolutional Neural Networks from Scratch](https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/) by PULKIT SHARMA
 * Blog: [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728) by Chi-Feng Wang
 * Blog: [Depth wise Separable Convolutional Neural Networks](https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/)
 
-### <a name="rnn"></a>RNN in Deep learning 
+5.  ### <a name="rnn"></a>RNN in Deep learning 
   * Blog: [Gentle introduction to Echo State Networks](https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68)
   * Slide: [ECho State Network](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf)
   * Blog: [ECho State Network](http://www.scholarpedia.org/article/Echo_state_network) by Herbert Jaeger
@@ -118,18 +125,14 @@ Required Reading:
   * Blog: [Reservoir Computing](https://www.researchgate.net/post/what_is_the_realitionship_between_deep_learning_methods_and_reservoir_computing_if_any)
   * Code: [ESN](https://github.com/ciortanmadalina/EchoStateNetwork/blob/master/EchoStateNetwork.ipynb)
 
-### <a name="keras"></a>Keras
-   * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee
-   * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by by Jason Brownlee
-
-### <a name="autoencoder">Autoencoder
+6.  ### <a name="autoencoder">Autoencoder
   * Blog: [Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/) by Jeremy Jordan
   * Paper: [What Regularized Auto-Encoders Learn from the Data Generating Distribution](https://arxiv.org/abs/1211.4246) by  Guillaume Alain, Yoshua Bengio
   
-### <a name="representation">Representation Learning
+7.  ### <a name="representation">Representation Learning
   * Blog: [How neural networks learn distributed representations](https://www.oreilly.com/ideas/how-neural-networks-learn-distributed-representations)
 
-### <a name="gan"></a>GAN
+8.  ### <a name="gan"></a>GAN
   * Video: [Adversarial Machine Learning](https://videos.videoken.com/index.php/videos/aaai-2019-videos-invited-talk-ian-goodfellow-google-ai-adversarial-machine-learning/) by Ian Goodfellow 
 
 ### <a name="misc"></a>Miscellaneous Matterials
