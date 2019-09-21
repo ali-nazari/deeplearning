@@ -4,8 +4,6 @@
 
 ### **Index:**
 - [Good Lectures in Deep learning](#lecture)
-- [History of Deep Learning](#history)
-- [Amount of Data for Deep Learning](#size_data)
 - [Datasets for Deep Learning](#datasets)
 - [Lab: Tools and Codes](#lab)
 - [Keras](#keras)
@@ -14,10 +12,13 @@
   2. [Regularization for Deep Learning](#regularization)
   3. [Optimization for Training Deep Models](#optimization)
   4. [CNN in Deep learning ](#cnn)
-  5. [Autoencoder](#autoencoder)
-  6. [Representation Learning](#representation)
-  7. [GAN](#gan)
+  5. [RNN in Deep learning](#rnn)
+  6. [Autoencoder](#autoencoder)
+  7. [Representation Learning](#representation)
+  8. [GAN](#gan)
 - [miscellany](#misc)
+  - [History of Deep Learning](#history)
+  - [Amount of Data for Deep Learning](#size_data)
 
 
 ---
@@ -27,13 +28,6 @@
    * Lecture: [Deep Learning Course](https://cedar.buffalo.edu/~srihari/CSE676/index.html) Complete Lectures for Deep Learning Course by Sargur Srihari
    * Lecture: [Overview of ways to improve generalization](http://www.cs.toronto.edu/~hinton/coursera/lecture9/lec9.pdf) by Geoffrey Hinton, et al.
 
-### <a name="history"></a>History of Deep Learning  
-  * Paper: [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800) by Haohan Wang and Bhiksha Raj
-  
-### <a name="size_data"></a>Amount of Data for Deep Learning  
-* Blog: [How Do You Know You Have Enough Training Data?](https://towardsdatascience.com/how-do-you-know-you-have-enough-training-data-ad9b1fd679ee) by Theophano Mitsa
-* Blog: [One in ten rule](https://en.wikipedia.org/wiki/One_in_ten_rule) in Wikipedia
-* Paper: [Deep Learning Scaling is Predictable, Empirically](https://arxiv.org/pdf/1712.00409.pdf) by J. Hestness, et al.
 
 ### <a name="datasets"></a>Datasets for Deep Learning
   * Blog: [Visual Data](https://www.visualdata.io)
@@ -135,5 +129,13 @@ Required Reading:
 8.  ### <a name="gan"></a>GAN
   * Video: [Adversarial Machine Learning](https://videos.videoken.com/index.php/videos/aaai-2019-videos-invited-talk-ian-goodfellow-google-ai-adversarial-machine-learning/) by Ian Goodfellow 
 
-### <a name="misc"></a>Miscellaneous Matterials
-  * Presentation: [Scaling Deep Learning on Multi-GPU Servers](https://discan18.github.io/assets/presentations/peter.pdf)
+## <a name="misc"></a>Miscellaneous Matterials
+
+### <a name="history"></a>History of Deep Learning  
+  * Paper: [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800) by Haohan Wang and Bhiksha Raj
+  
+### <a name="size_data"></a>Amount of Data for Deep Learning  
+* Blog: [How Do You Know You Have Enough Training Data?](https://towardsdatascience.com/how-do-you-know-you-have-enough-training-data-ad9b1fd679ee) by Theophano Mitsa
+* Blog: [One in ten rule](https://en.wikipedia.org/wiki/One_in_ten_rule) in Wikipedia
+* Paper: [Deep Learning Scaling is Predictable, Empirically](https://arxiv.org/pdf/1712.00409.pdf) by J. Hestness, et al.
+* Presentation: [Scaling Deep Learning on Multi-GPU Servers](https://discan18.github.io/assets/presentations/peter.pdf)
