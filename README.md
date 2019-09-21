@@ -4,7 +4,7 @@
 
 ### **Index:**
 - [Good Lectures in Deep learning](#lecture)
--- [History of Deep Learning](#history)
+- [History of Deep Learning](#history)
 - [Amount of Data for Deep Learning](#size_data)
 - [Datasets for Deep Learning](#datasets)
 - [Lab: Tools and Codes](#lab)
