@@ -4,10 +4,11 @@
 
 ### **Index:**
 - [Good Lectures in Deep learning](#lecture)
-- [History of Deep Learning](#history)
+-- [History of Deep Learning](#history)
 - [Amount of Data for Deep Learning](#size_data)
 - [Datasets for Deep Learning](#datasets)
 - [Lab: Tools and Codes](#lab)
+- [Introduction to Deep Learning](#introduction)
 - [Regularization for Deep Learning](#regularization)
 - [Optimization for Training Deep Models](#optimization)
 - [CNN in Deep learning ](#cnn)
