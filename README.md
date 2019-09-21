@@ -55,7 +55,6 @@
   * Blog: [Analyzing tf.function to discover AutoGraph strengths and subtleties](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-1/)
   [, part-2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/)
   [, part-3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)
-  
      ```
     TensorBoard
     ```
@@ -63,6 +62,11 @@
    * Blog: [Introduction to TensorBoard](https://www.easy-tensorflow.com/tf-tutorials/basics/introduction-to-tensorboard)
    * Blog: [TensorBoard Tutorial](https://www.datacamp.com/community/tutorials/tensorboard-tutorial)
   
+### <a name="introduction"></a>Introduction to Deep Learning  
+  * Blog: [Understanding Tensors and Graphs](https://www.analyticsvidhya.com/blog/2017/03/tensorflow-understanding-tensors-and-graphs/)
+  * Blog: [Differences between tensors and multidimensional arrays](https://math.stackexchange.com/questions/1134809/are-there-any-differences-between-tensors-and-multidimensional-arrays) A "tensor" is a multilinear function of several vector variables
+  * Blog: [Understanding the definition of tensors as multilinear maps](https://math.stackexchange.com/questions/2138459/understanding-the-definition-of-tensors-as-multilinear-maps)
+
 ### <a name="regularization"></a>Regularization for Deep Learning  
 ```
 Required Reading:
@@ -77,10 +81,10 @@ Required Reading:
 
 
 ### <a name="optimization"></a>Optimization for Training Deep Models  
-```
-    Required Reading:
-```  
-* [Chapter 8](http://www.deeplearningbook.org/contents/optimization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
+    ```
+      Required Reading:
+    ```
+  * [Chapter 8](http://www.deeplearningbook.org/contents/optimization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
     * Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem
     * Slide: [Gradient Descent and Structure of Neural Network Cost Functions](https://www.deeplearningbook.org/slides/sgd_and_cost_structure.pdf) by Ian Goodfellow
     * Slide: [Tutorial on Optimization for Deep Networks](https://www.deeplearningbook.org/slides/dls_2016.pdf) by Ian Goodfellow    
