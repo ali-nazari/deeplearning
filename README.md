@@ -51,14 +51,15 @@
   * Blog: [Analyzing tf.function to discover AutoGraph strengths and subtleties](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-1/)
   [, part-2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/)
   [, part-3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)
-     ```
+    ```
     TensorBoard
     ```
    * Blog: [Introduction to TensorBoard and TensorFlow visualization](https://adventuresinmachinelearning.com/introduction-to-tensorboard-and-tensorflow-visualization/)
    * Blog: [Introduction to TensorBoard](https://www.easy-tensorflow.com/tf-tutorials/basics/introduction-to-tensorboard)
-   * Blog: [TensorBoard Tutorial](https://www.datacamp.com/community/tutorials/tensorboard-tutorial)
- 
- ### <a name="keras"></a>Keras
+   * Blog: [TensorBoard Tutorial](https://www.datacamp.com/community/tutorials/tensorboard-tutorial) 
+     ```
+     Keras
+     ```    
    * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee
    * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by by Jason Brownlee
    * Blog: [Tutorial on Keras ImageDataGenerator with flow_from_dataframe](https://medium.com/@vijayabhaskar96/tutorial-on-keras-imagedatagenerator-with-flow-from-dataframe-8bd5776e45c1)
