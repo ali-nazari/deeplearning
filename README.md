@@ -138,6 +138,9 @@ Required Reading:
 
 ### <a name="history"></a>History of Deep Learning  
   * Paper: [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800) by Haohan Wang and Bhiksha Raj
+
+### <a name="article"></a>Descent Articles
+  * Paper: [https://arxiv.org/abs/1903.08297v1](Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening)
   
 ### <a name="size_data"></a>Amount of Data for Deep Learning  
 * Blog: [How Do You Know You Have Enough Training Data?](https://towardsdatascience.com/how-do-you-know-you-have-enough-training-data-ad9b1fd679ee) by Theophano Mitsa
