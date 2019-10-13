@@ -65,6 +65,7 @@
    * Blog: [Tutorial on Keras ImageDataGenerator with flow_from_dataframe](https://medium.com/@vijayabhaskar96/tutorial-on-keras-imagedatagenerator-with-flow-from-dataframe-8bd5776e45c1)
    * Blog: [How to Use The Pre-Trained VGG Model to Classify Objects in Photographs](https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/)
    * Blog: [Output of an intermediate layer](https://keras.io/getting-started/faq/#how-can-i-obtain-the-output-of-an-intermediate-layer)
+   *  Blog: [Training a deep learning model on a large dataset](https://medium.com/difference-engine-ai/keras-a-thing-you-should-know-about-keras-if-you-plan-to-train-a-deep-learning-model-on-a-large-fdd63ce66bd2)
   
 ## <a name="content"></a>Main Content: Slides, lectures and academic descriptions of DL concepts
 
