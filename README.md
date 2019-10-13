@@ -2,7 +2,7 @@
 
 ---
 
-### **Index:**
+## **Index:**
 - [Good Lectures in Deep learning](#lecture)
 - [Datasets for Deep Learning](#datasets)
 - [Lab: Tools and Codes](#lab)
