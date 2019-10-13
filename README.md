@@ -6,7 +6,7 @@
 - [Good Lectures in Deep learning](#lecture)
 - [Datasets for Deep Learning](#datasets)
 - [Lab: Tools and Codes](#lab)
-- [Keras](#keras)
+--[Keras](#keras)
 - [Main Content](#content)
   1. [Introduction to Deep Learning](#introduction)
   2. [Regularization for Deep Learning](#regularization)
@@ -58,8 +58,9 @@
    * Blog: [Introduction to TensorBoard](https://www.easy-tensorflow.com/tf-tutorials/basics/introduction-to-tensorboard)
    * Blog: [TensorBoard Tutorial](https://www.datacamp.com/community/tutorials/tensorboard-tutorial) 
      ```
-     #### <a name="keras"></a> Keras
+     Keras
      ```    
+   #### <a name="keras"></a>
    * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee
    * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by by Jason Brownlee
    * Blog: [Tutorial on Keras ImageDataGenerator with flow_from_dataframe](https://medium.com/@vijayabhaskar96/tutorial-on-keras-imagedatagenerator-with-flow-from-dataframe-8bd5776e45c1)
