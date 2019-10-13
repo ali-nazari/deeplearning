@@ -6,7 +6,10 @@
 - [Good Lectures in Deep learning](#lecture)
 - [Datasets for Deep Learning](#datasets)
 - [Lab: Tools and Codes](#lab)
---[Keras](#keras)
+    1.[Data Processing in Tensorflow](#dataprocessingTF)
+    2.[Decoration in Tensorflow](#decoration)
+    3.[TensorBoard](#tensorboard)
+    4.[Keras](#keras)
 - [Main Content](#content)
   1. [Introduction to Deep Learning](#introduction)
   2. [Regularization for Deep Learning](#regularization)
@@ -42,11 +45,13 @@
     ```
     Data Processing in Tensorflow
     ```
+  #### <a name="dataprocessingTF"></a>
   * Blog: [Datasets for Estimators](https://www.tensorflow.org/guide/datasets_for_estimators)
   * Blog: [Feature Columns](https://www.tensorflow.org/guide/feature_columns)
     ```
     Decoration in Tensorflow
     ```
+  #### <a name="decoration"></a>
   * Blog: [tf.function](https://www.tensorflow.org/beta/tutorials/eager/tf_function) converts a python method to its computation graph in TF
   * Blog: [Analyzing tf.function to discover AutoGraph strengths and subtleties](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-1/)
   [, part-2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/)
@@ -54,6 +59,7 @@
     ```
     TensorBoard
     ```
+   #### <a name="tensorboard"></a>
    * Blog: [Introduction to TensorBoard and TensorFlow visualization](https://adventuresinmachinelearning.com/introduction-to-tensorboard-and-tensorflow-visualization/)
    * Blog: [Introduction to TensorBoard](https://www.easy-tensorflow.com/tf-tutorials/basics/introduction-to-tensorboard)
    * Blog: [TensorBoard Tutorial](https://www.datacamp.com/community/tutorials/tensorboard-tutorial) 
