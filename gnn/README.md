@@ -7,6 +7,9 @@
   * Blog: [Can we do better than Convolutional Neural Networks?](https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807)
   * Paper: [Bayesian Graph Convolutional Neural Networks (Bayesian-GCNNs)](https://arxiv.org/abs/1811.11103v1)
 
+## <a name='poolinggnn'>Graph Pooling Modules</a>
+ * Paper: [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/abs/1806.08804)
+
 ## <a name='articles'>Other Interesting Articles and Subjects in DNN</a>
  Blog: [The Paradigm Shift of Self-Supervised Learning](https://medium.com/intuitionmachine/the-paradigm-shift-of-self-supervised-learning-744a6819ce08)
  
