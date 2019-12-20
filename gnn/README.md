@@ -22,3 +22,6 @@
  
 ## <a name="people">Famous People in Graph</a>
   Blog: [Douglas B. West](https://faculty.math.illinois.edu/~west/)
+
+## <a name="code">Codes and Libraries</a>
+ Blog: [Tutorial of the Graph Nets library](https://colab.research.google.com/github/deepmind/graph_nets/blob/master/graph_nets/demos/graph_nets_basics.ipynb#scrollTo=Tc355RxEak3h)
