@@ -1,4 +1,7 @@
 
+## <a name='tutorial'>Tutorial on Graph Neural Networks</a>
+ * Blog: [Tutorial on Graph Neural Networks for Computer Vision and Beyond](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d)
+ 
 ## <a name='gnn'>GRAPH CONVOLUTIONAL NETWORKS</a>
   * Paper: [The graph neural network model](https://persagen.com/files/misc/scarselli2009graph.pdf) 
   * Blog: [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)
@@ -9,6 +12,7 @@
 
 ## <a name='poolinggnn'>Graph Pooling Modules</a>
  * Paper: [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/abs/1806.08804)
+ * Paper: [CLIQUE POOLING FOR GRAPH CLASSIFICATION](https://rlgm.github.io/papers/56.pdf)
 
 ## <a name='spatial-temporal'>Spatial-Temporal Graphs</a>
  * Paper: [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455)
