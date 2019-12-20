@@ -10,6 +10,9 @@
 ## <a name='poolinggnn'>Graph Pooling Modules</a>
  * Paper: [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/abs/1806.08804)
 
+## <a name='spatial-temporal'>Spatial-Temporal Graphs</a>
+ * Paper: [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455)
+
 ## <a name='articles'>Other Interesting Articles and Subjects in DNN</a>
  Blog: [The Paradigm Shift of Self-Supervised Learning](https://medium.com/intuitionmachine/the-paradigm-shift-of-self-supervised-learning-744a6819ce08)
  
