@@ -21,6 +21,9 @@
 
 ## <a name='spatial-temporal'>Spatial-Temporal Graphs</a>
  * Paper: [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455)
+ 
+## <a name='combinatorics'>Combinatorics and GNN</a>
+ * Paper: [Combinatorial Designs for Deep Learning](https://arxiv.org/abs/1809.08404)
 
 ## <a name='articles'>Other Interesting Articles and Subjects in DNN</a>
  Blog: [The Paradigm Shift of Self-Supervised Learning](https://medium.com/intuitionmachine/the-paradigm-shift-of-self-supervised-learning-744a6819ce08)
