@@ -4,6 +4,7 @@
  
 ## <a name='general'>General Articles on GNN</a>
  * Paper: [How Powerful are Graph Neural Networks](https://arxiv.org/abs/1810.00826)
+ * Paper: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)
  * Blog: [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-62acf5b143d0)
 
 ## <a name='gnn'>GRAPH CONVOLUTIONAL NETWORKS</a>
