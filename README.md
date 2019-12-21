@@ -19,6 +19,7 @@
   6. [Autoencoder](#autoencoder)
   7. [Representation Learning](#representation)
   8. [GAN](#gan)
+  9. [Deep Belief Network](#dbn)
 - [miscellany](#misc)
   - [History of Deep Learning](#history)
   - [Amount of Data for Deep Learning](#size_data)
@@ -142,6 +143,9 @@ Required Reading:
 
 8.  ### <a name="gan"></a>GAN
   * Video: [Adversarial Machine Learning](https://videos.videoken.com/index.php/videos/aaai-2019-videos-invited-talk-ian-goodfellow-google-ai-adversarial-machine-learning/) by Ian Goodfellow 
+
+9.  ### <a name="dbn">Deep Belief Network</a>
+    *   Blog:   [Deep Belief Network](https://medium.com/datadriveninvestor/deep-learning-deep-belief-network-dbn-ab715b5b8afc)
 
 ## <a name="misc"></a>Miscellaneous Matterials
 
