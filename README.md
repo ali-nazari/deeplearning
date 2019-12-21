@@ -78,7 +78,8 @@
       ```
        Colab
       ``` 
-     #### <a name="colab"></a>
+     
+  #### <a name="colab"></a>
    *   Blog: [Introduction to Colab](https://shranith.github.io/2018/10/28/google_colab_intro.html)
   
 ## <a name="content"></a>Main Content: Slides, lectures and academic descriptions of DL concepts
