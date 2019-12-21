@@ -24,6 +24,7 @@
 - [miscellany](#misc)
   - [History of Deep Learning](#history)
   - [Amount of Data for Deep Learning](#size_data)
+  - [Applications](#applications)
 
 
 ---
@@ -167,3 +168,6 @@ Required Reading:
 * Blog: [One in ten rule](https://en.wikipedia.org/wiki/One_in_ten_rule) in Wikipedia
 * Paper: [Deep Learning Scaling is Predictable, Empirically](https://arxiv.org/pdf/1712.00409.pdf) by J. Hestness, et al.
 * Presentation: [Scaling Deep Learning on Multi-GPU Servers](https://discan18.github.io/assets/presentations/peter.pdf)
+
+### <a  name="applications"></a>Usage of DL in Applictions
+   *   Blog:[Gentle guide on how YOLO Object Localization works with Keras](https://heartbeat.fritz.ai/gentle-guide-on-how-yolo-object-localization-works-with-keras-part-2-65fe59ac12d)
