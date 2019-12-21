@@ -33,3 +33,6 @@
 
 ## <a name="code">Codes and Libraries</a>
  Blog: [Tutorial of the Graph Nets library](https://colab.research.google.com/github/deepmind/graph_nets/blob/master/graph_nets/demos/graph_nets_basics.ipynb#scrollTo=Tc355RxEak3h)
+ 
+ ## <a name="image">GNN in Image Processing</a>
+  * Paper: [Exploring Visual Relationship for Image Captioning](https://arxiv.org/abs/1809.07041)
