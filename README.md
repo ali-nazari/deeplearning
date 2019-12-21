@@ -10,6 +10,7 @@
     <br/>2. [Decoration in Tensorflow](#decoration)
     <br/>3. [TensorBoard](#tensorboard)
     <br/>4. [Keras](#keras)
+    <br/>5. [Colab](#colab)
 - [Main Content](#content)
   1. [Introduction to Deep Learning](#introduction)
   2. [Regularization for Deep Learning](#regularization)
@@ -76,7 +77,7 @@
    *  Blog: [Training a deep learning model on a large dataset](https://medium.com/difference-engine-ai/keras-a-thing-you-should-know-about-keras-if-you-plan-to-train-a-deep-learning-model-on-a-large-fdd63ce66bd2)
       ```
        Colab
-           ``` 
+      ``` 
      #### <a name="colab"></a>
    *   Blog: [Introduction to Colab](https://shranith.github.io/2018/10/28/google_colab_intro.html)
   
