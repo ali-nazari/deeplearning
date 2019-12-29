@@ -3,6 +3,7 @@
  * Blog: [Tutorial on Graph Neural Networks for Computer Vision and Beyond](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d)
  
 ## <a name='general'>General Articles on GNN</a>
+ * Blog: [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
  * Paper: [How Powerful are Graph Neural Networks](https://arxiv.org/abs/1810.00826)
  * Paper: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)
  * Blog: [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-62acf5b143d0)
