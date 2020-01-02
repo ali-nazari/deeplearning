@@ -45,6 +45,7 @@
   * Blog: [Tensorflow Hub](https://www.tensorflow.org/hub) A library for the publication, discovery, and consumption of reusable parts of machine learning models
   * Blog: [TensorFlow Models](https://github.com/tensorflow/models/) A repository contains a number of different models implemented in TensorFlow
   * Software: [Learning rate multiplier wrapper for optimizers](https://pypi.org/project/keras-lr-multiplier/)
+  * Blog: [Lessons Learned from Kaggle’s Airbus Challenge](https://towardsdatascience.com/lessons-learned-from-kaggles-airbus-challenge-252e25c5efac?)
   
     ```
     Data Processing in Tensorflow
