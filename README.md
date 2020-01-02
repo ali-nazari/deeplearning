@@ -126,6 +126,7 @@ Required Reading:
    * Blog: [How to Accelerate Learning of Deep Neural Networks With Batch Normalization](https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/) by Jason Brownlee  
    * Slide: [Conjugate Gradient Descent](http://www.cs.cmu.edu/~pradeepr/convexopt/Lecture_Slides/conjugate_direction_methods.pdf) by Aarti Singh
    * Blog: [Orthogonal Matrix](https://en.wikipedia.org/wiki/Orthogonal_matrix) in Wikipedia
+   * Blog: [Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names](https://gombru.github.io/2019/04/03/ranking_loss/)
 
 4.  ### <a name="cnn"></a>CNN in Deep learning 
 * Blog: [A Comprehensive Tutorial to learn Convolutional Neural Networks from Scratch](https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/) by PULKIT SHARMA
