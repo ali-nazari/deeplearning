@@ -39,6 +39,7 @@
 ### <a name="datasets"></a>Datasets for Deep Learning
   * Blog: [Visual Data](https://www.visualdata.io)
   * Blog: [PathMind](https://pathmind.com/wiki/open-datasets)
+  * Blog: [Flickr-Faces-HQ Dataset (FFHQ)](https://github.com/NVlabs/ffhq-dataset)
 
 
 ### <a name="lab"></a> Lab: Tools and Codes
