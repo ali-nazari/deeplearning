@@ -6,3 +6,4 @@
   * Blog: [Readings On Segmentation](https://jinglescode.github.io/research/segmentation/)
   * Blog: [An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/)
   * Blog: [Making deep neural networks paint to understand how they work](https://towardsdatascience.com/making-deep-neural-networks-paint-to-understand-how-they-work-4be0901582ee)
+  * Blog: [Albumentations: fast and flexible image augmentations](https://github.com/albumentations-team/albumentations)
