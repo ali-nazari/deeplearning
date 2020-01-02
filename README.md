@@ -38,6 +38,7 @@
 
 ### <a name="datasets"></a>Datasets for Deep Learning
   * Blog: [Visual Data](https://www.visualdata.io)
+  * Blog: [PathMind](https://pathmind.com/wiki/open-datasets)
 
 
 ### <a name="lab"></a> Lab: Tools and Codes
