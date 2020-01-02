@@ -5,3 +5,4 @@
   * Blog: [Label smoothing with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/)
   * Blog: [Readings On Segmentation](https://jinglescode.github.io/research/segmentation/)
   * Blog: [An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/)
+  * Blog: [Making deep neural networks paint to understand how they work](https://towardsdatascience.com/making-deep-neural-networks-paint-to-understand-how-they-work-4be0901582ee)
