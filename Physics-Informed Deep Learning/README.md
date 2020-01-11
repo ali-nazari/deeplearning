@@ -9,6 +9,7 @@ Recent Advances in Physics-Informed Deep Learning
  ## <a  name='ode'>Neural ODE</a>
   * Blog: [Neural ODEs: breakdown of another deep learning breakthrough](https://towardsdatascience.com/neural-odes-breakdown-of-another-deep-learning-breakthrough-3e78c7213795)
 * Paper:  [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
+* Code: [Neural ODE Experiments](https://github.com/Rachnog/Neural-ODE-Experiments)
  
  ## <a name='code'>Codes in Physics-Informed Deep Learning</a>
   * Notebook: [Hands-on tutorial on solving PDEs on graphs with physics-informed neural networks](https://github.com/PredictiveIntelligenceLab/USNCCM15-Short-Course-Recent-Advances-in-Physics-Informed-Deep-Learning/blob/master/notebooks/.ipynb_checkpoints/Graph%20PINNs-checkpoint.ipynb)
