@@ -6,7 +6,7 @@ Recent Advances in Physics-Informed Deep Learning
    *  Paper: [Hidden Physics Models: Machine Learning of Nonlinear Partial Differential Equations](https://arxiv.org/abs/1708.00588)
    *  Paper:  [DGM: A deep learning algorithm for solving partial differential equations](https://arxiv.org/abs/1708.07469)
   
- ## <a  name='physics_dl'></a>
+ ## <a  name='ode'>Neural ODE</a>
   * Blog: [Neural ODEs: breakdown of another deep learning breakthrough](https://towardsdatascience.com/neural-odes-breakdown-of-another-deep-learning-breakthrough-3e78c7213795)
 * Paper:  [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
  
