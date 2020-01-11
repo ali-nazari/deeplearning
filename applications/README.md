@@ -9,3 +9,4 @@
   * Blog: [Albumentations: fast and flexible image augmentations](https://github.com/albumentations-team/albumentations)
   * Blog: [Searching for ET using AI on GCP](https://towardsdatascience.com/searching-for-et-using-ai-on-gcp-b45b07ba5b6)
   * Blog: [A story of my first gold medal in one Kaggle competition: things done and lessons learned](https://towardsdatascience.com/a-story-of-my-first-gold-medal-in-one-kaggle-competition-things-done-and-lessons-learned-c269d9c233d1)
+  * Paper: [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
