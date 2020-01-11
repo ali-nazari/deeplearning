@@ -150,6 +150,7 @@ Required Reading:
 6.  ### <a name="autoencoder">Autoencoder
   * Blog: [Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/) by Jeremy Jordan
   * Paper: [What Regularized Auto-Encoders Learn from the Data Generating Distribution](https://arxiv.org/abs/1211.4246) by  Guillaume Alain, Yoshua Bengio
+  * Blog: [Tutorial on Variational Graph Auto-Encoders](https://towardsdatascience.com/tutorial-on-variational-graph-auto-encoders-da9333281129)
   
 7.  ### <a name="representation">Representation Learning
   * Blog: [How neural networks learn distributed representations](https://www.oreilly.com/ideas/how-neural-networks-learn-distributed-representations)
