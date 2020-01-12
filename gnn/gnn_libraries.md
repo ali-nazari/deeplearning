@@ -44,4 +44,6 @@ Finally, assign a name to your kernel (e.g. GNN):
 5. $ python -m ipykernel install --user --name GNN --display-name "GNN"    
 
 # <a href='dgl'>Deep Graph Library </a>
-[Deep Graph Library](https://www.dgl.ai)
+[Deep Graph Library](https://www.dgl.ai) supports PyTorch and MxNet DL frameworks as backends.
+
+For installation, visit [Install DGL page](https://docs.dgl.ai/install/index.html)
