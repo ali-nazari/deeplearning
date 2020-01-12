@@ -1,8 +1,8 @@
 ## **Outline:**
-- [Graph Nets Librar](#graphnets)
+- [Graph Nets Library](#graphnets)
   1. [Installation of Graph Nets Library via pip](#graphnets_pip)
   2. [Installation of Graph Nets Library via anaconda](#graphnets_conda)
-  - [Deep Graph Library](#dgl)
+- [Deep Graph Library](#dgl)
 
 # <a href='graphnets'>Install Graph Nets Library</a>
 
@@ -44,3 +44,4 @@ Finally, assign a name to your kernel (e.g. GNN):
 5. $ python -m ipykernel install --user --name GNN --display-name "GNN"    
 
 # <a href='dgl'>Deep Graph Library </a>
+[Deep Graph Library](https://www.dgl.ai)
