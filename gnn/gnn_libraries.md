@@ -8,7 +8,7 @@
 
 [Graph Nets](https://github.com/deepmind/graph_nets) is DeepMind's library for constructing graph networks in Tensorflow and Sonnet. 
 
-There are some conflicts and errors in the installation of the graph nets library. In the following lines, you can find an easiest way to install this library with its dependent packages without any error. 
+There are some conflicts and errors in the installation of the graph nets library. In the following lines, you can find an easiest way to install this library with its dependent packages. 
 
 ## <a href='graphnets_pip'>Installation of Graph Nets Library via pip</a>    
 The Graph Nets library can be installed from [pip](https://github.com/deepmind/graph_nets/#Installation).  
