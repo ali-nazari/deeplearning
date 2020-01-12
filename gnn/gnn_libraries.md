@@ -15,11 +15,11 @@ The Graph Nets library can be installed from [pip](https://github.com/deepmind/g
 
 To install the Graph Nets library for CPU, run:  
 
-1. $ pip install python==3.6 graph_nets "tensorflow>=1.15,<2" tensorflow_probability==0.8.0  
+1. $ pip install python==3.6 graph_nets "tensorflow>=1.15,<2" tensorflow-probability==0.8.0  
 
 To install the Graph Nets library for GPU, run:
 
-2. $ pip install python==3.6 graph_nets "tensorflow_gpu>=1.15,<2" tensorflow_probability==0.8.0  
+2. $ pip install python==3.6 graph_nets "tensorflow_gpu>=1.15,<2" tensorflow-probability==0.8.0  
 
 ## <a href='graphnets_conda'>Installation of Graph Nets Library via anaconda</a>
 
