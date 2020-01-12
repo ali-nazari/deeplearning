@@ -1,6 +1,14 @@
+## **Outline:**
+- [Graph Nets Librar](#graphnets)
+  1. [Installation of Graph Nets Library via pip](#graphnets_pip)
+  2. [Installation of Graph Nets Library via anaconda](#graphnets_conda)
+  - [Deep Graph Library](#dgl)
+
 # <a href='graphnets'>Install Graph Nets Library</a>
 
 [Graph Nets](https://github.com/deepmind/graph_nets) is DeepMind's library for constructing graph networks in Tensorflow and Sonnet. 
+
+There are some conflicts and errors in the installation of the graph nets library. In the following lines, you can find an easiest way to install those packages with their dependent versions without any error. 
 
 ## <a href='graphnets_pip'>Installation of Graph Nets Library via pip</a>    
 The Graph Nets library can be installed from [pip](https://github.com/deepmind/graph_nets/#Installation).  
@@ -34,3 +42,5 @@ Next, we need to install  dm-sonnet and graph_nets  packages using pip:
 Finally, assign a name to your kernel (e.g. GNN):  
 
 5. $ python -m ipykernel install --user --name GNN --display-name "GNN"    
+
+# <a href='dgl'>Deep Graph Library </a>
