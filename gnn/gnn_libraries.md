@@ -2,6 +2,7 @@
 - [Graph Nets Library](#graphnets)
   1. [Installation of Graph Nets Library via pip](#graphnets_pip)
   2. [Installation of Graph Nets Library via anaconda](#graphnets_conda)
+  3. [Module Reference of Graph Nets](#graphnets_doc)
 - [Deep Graph Library](#dgl)
 
 # <a href='graphnets'>Install Graph Nets Library</a>
@@ -42,6 +43,9 @@ Next, we need to install  dm-sonnet and graph_nets  packages using pip:
 Finally, assign a name to your kernel (e.g. GNN):  
 
 5. $ python -m ipykernel install --user --name GNN --display-name "GNN"    
+
+## <a href='graphnets_doc'>Module Reference of Graph Nets </a>
+[Documentation of Graph Nets](https://github.com/deepmind/graph_nets/blob/master/docs/graph_nets.md)
 
 # <a href='dgl'>Deep Graph Library </a>
 [Deep Graph Library](https://www.dgl.ai) supports PyTorch and MxNet DL frameworks as backends.
