@@ -47,7 +47,7 @@ Finally, assign a name to your kernel (e.g. GNN):
 ## <a href='graphnets_doc'>Module Reference of Graph Nets </a>
 [Documentation of Graph Nets](https://github.com/deepmind/graph_nets/blob/master/docs/graph_nets.md)
 
-# <a href="dgl">Deep Graph Library </a>
+# <a href="gnn_libraries.md#dgl">Deep Graph Library </a>
 [Deep Graph Library](https://www.dgl.ai) supports PyTorch and MxNet DL frameworks as backends.
 
 For installation, visit [Install DGL page](https://docs.dgl.ai/install/index.html)
