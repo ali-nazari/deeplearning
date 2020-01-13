@@ -3,7 +3,7 @@
   1. [Installation of Graph Nets Library via pip](#graphnets_pip)
   2. [Installation of Graph Nets Library via anaconda](#graphnets_conda)
   3. [Module Reference of Graph Nets](#graphnets_doc)
-- [Deep Graph Library](#dgl)
+- [Deep Graph Library](#gnn_libraries.md#dgl)
 
 # <a href="graphnets">Install Graph Nets Library</a>
 
