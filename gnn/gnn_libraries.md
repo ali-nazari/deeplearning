@@ -52,14 +52,18 @@ Finally, assign a name to your kernel (e.g. GNN):
 
 For installation, visit [Install DGL page](https://docs.dgl.ai/install/index.html)
 
-1. First, try to install a new environment in your anaconda
+1. First, try to install a new environment in your anaconda:
+
 $conda create --name DGL #(DGL here is your environment's name)
 
-2. you must install python 3. 7
+2. you must install python 3. 7:
+
 $conda install -c anaconda python=3.7
 
-3. install pytorch as backend
+3. install pytorch as backend:
+
 $conda install -c pytorch pytorch
 
-4. Now you can install dgl library easily
+4. Now you can install dgl library easily:
+
 $conda install -c dglteam dgl
