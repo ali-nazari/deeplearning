@@ -52,18 +52,58 @@ Finally, assign a name to your kernel (e.g. GNN):
 
 For installation, visit [Install DGL page](https://docs.dgl.ai/install/index.html)
 
+## <a href='dgl_pytorch'>Installation of DGL with pytorch as backend </a>
+
 1. First, try to install a new environment in your anaconda:
 
 $conda create --name DGL #(DGL here is your environment's name)
 
-2. you must install python 3. 7:
+2. Activate your environment:
+$conda activate
+
+3. you must install python 3. 7:
 
 $conda install -c anaconda python=3.7
 
-3. install pytorch as backend:
+4. install pytorch as backend:
 
 $conda install -c pytorch pytorch
 
-4. Now you can install dgl library easily:
+5. Now you can install dgl library easily:
 
 $conda install -c dglteam dgl
+
+## <a href='dgl_tf'>Installation of DGL with Tensorflow as backend </a>
+
+1. First, try to install a new environment in your anaconda:
+
+$conda create --name DGLTF #(DGLTF here is your environment's name)
+
+2. Activate your environment
+$conda activate
+
+3.Install python version 3. 7:
+
+$conda install -c anaconda python=3.7
+
+4. Installation of Tensorflow as backend:
+$ conda install tensorflow
+
+5. Install tfdlpack package:
+If you are using cpu version of tensorflow:
+
+$pip install tfdlpack  
+
+or
+if you want to have a gpu version of tensorflow:
+
+$pip install tfdlpack-gpu  # when using tensorflow gpu version
+$export TF_FORCE_GPU_ALLOW_GROWTH=true # and add this to your .bashrc/.zshrc file if needed
+
+6. Now you can install dgl library easily:
+
+$conda install -c dglteam dgl
+
+
+
+
