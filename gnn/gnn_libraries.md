@@ -51,3 +51,15 @@ Finally, assign a name to your kernel (e.g. GNN):
 [Deep Graph Library](https://www.dgl.ai) supports PyTorch and MxNet DL frameworks as backends.
 
 For installation, visit [Install DGL page](https://docs.dgl.ai/install/index.html)
+
+1. First, try to install a new environment in your anaconda
+$conda create --name DGL #(DGL here is your environment's name)
+
+2. you must install python 3. 7
+$conda install -c anaconda python=3.7
+
+3. install pytorch as backend
+$conda install -c pytorch pytorch
+
+4. Now you can install dgl library easily
+$conda install -c dglteam dgl
