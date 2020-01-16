@@ -2,6 +2,9 @@
 ## <a name='tutorial'>Tutorial on Graph Neural Networks</a>
  * Blog: [Tutorial on Graph Neural Networks for Computer Vision and Beyond](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d)
  
+ # <a name='course'>Courses in Graphs and Garph Neural Network</a>
+  * Blog: [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/index.html)
+ 
 ## <a name='general'>General Articles on GNN</a>
  * Blog: [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
  * Paper: [How Powerful are Graph Neural Networks](https://arxiv.org/abs/1810.00826)
