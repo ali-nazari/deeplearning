@@ -14,6 +14,7 @@
  * Paper: [DEEP GRAPH INFOMAX](https://arxiv.org/abs/1809.10341)
  * Blog: [Tutorial on Variational Graph Auto-Encoders](https://towardsdatascience.com/tutorial-on-variational-graph-auto-encoders-da9333281129)
  * Blog: [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
+ * Paper: [GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks](https://arxiv.org/abs/2001.06216)
 
 ## <a name='gnn'>GRAPH CONVOLUTIONAL NETWORKS</a>
   * Paper: [The graph neural network model](https://persagen.com/files/misc/scarselli2009graph.pdf) 
