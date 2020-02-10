@@ -16,7 +16,15 @@
  * Blog: [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
  * Paper: [GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks](https://arxiv.org/abs/2001.06216)
 
-## <a name='gnn'>GRAPH CONVOLUTIONAL NETWORKS</a>
+## <a name='grepresentation'>Graph Representation Learning</a>
+ * Paper: [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652)
+ * Paper: [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/abs/1709.05584)
+ * Course: [Graph Representation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html)An introduction to representation learning and deep learning with graph-structured data
+ * Blog: [Graph Representation Learning](https://towardsdatascience.com/graph-representation-learning-dd64106c9763)
+ * Thesis: [Graph Representation Learning and Graph Classification](https://www.cs.uoregon.edu/Reports/AREA-201706-Riazi.pdf) by Sara Riazi
+ 
+
+## <a name='gcn'>GRAPH CONVOLUTIONAL NETWORKS</a>
   * Paper: [The graph neural network model](https://persagen.com/files/misc/scarselli2009graph.pdf) 
   * Blog: [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)
   * Blog: [Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search](https://github.com/intel-isl/nphard)
