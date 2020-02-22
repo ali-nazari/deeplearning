@@ -159,7 +159,9 @@ Required Reading:
   * Video: [Adversarial Machine Learning](https://videos.videoken.com/index.php/videos/aaai-2019-videos-invited-talk-ian-goodfellow-google-ai-adversarial-machine-learning/) by Ian Goodfellow 
 
 9.  ### <a name="dbn">Deep Belief Network</a>
+    *   Blog:   [Boltzmann machine](http://www.scholarpedia.org/article/Boltzmann_machine)
     *   Blog:   [Deep Belief Network](https://medium.com/datadriveninvestor/deep-learning-deep-belief-network-dbn-ab715b5b8afc)
+    *   Course: [Lecture 8: Deep Belief Nets by Hinton](http://www.cs.toronto.edu/~hinton/csc2515/lectures.html)
 
 ## <a name="misc"></a>Miscellaneous Matterials
 
