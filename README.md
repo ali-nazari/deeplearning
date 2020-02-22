@@ -168,6 +168,7 @@ Required Reading:
 
 ### <a name="article"></a>Descent Articles
   * Paper: [Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening](https://arxiv.org/abs/1903.08297v1)
+  * Paper: [Why deep-learning AIs are so easy to fool](https://www.nature.com/articles/d41586-019-03013-5)
   
 ### <a name="size_data"></a>Amount of Data for Deep Learning  
 * Blog: [How Do You Know You Have Enough Training Data?](https://towardsdatascience.com/how-do-you-know-you-have-enough-training-data-ad9b1fd679ee) by Theophano Mitsa
