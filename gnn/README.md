@@ -43,7 +43,7 @@
  * Paper: [Combinatorial Designs for Deep Learning](https://arxiv.org/abs/1809.08404)
 
 ## <a name='articles'>Other Interesting Articles and Subjects in DNN</a>
- Blog: [The Paradigm Shift of Self-Supervised Learning](https://medium.com/intuitionmachine/the-paradigm-shift-of-self-supervised-learning-744a6819ce08)
+ Blog: [The Paradigm Shift of Self-Supervised Learning](https://medium.com/intuitionmachine/the-paradigm-shift-of-self-supervised-learning-744a6819ce08)<br/>
  Blog: [Transformers are Graph Neural Networks](https://graphdeeplearning.github.io/post/transformers-are-gnns/) by Chaitanya Joshi
 
 ## <a name="people">Famous People in Graph</a>
