@@ -10,3 +10,12 @@
   * Blog: [Searching for ET using AI on GCP](https://towardsdatascience.com/searching-for-et-using-ai-on-gcp-b45b07ba5b6)
   * Blog: [A story of my first gold medal in one Kaggle competition: things done and lessons learned](https://towardsdatascience.com/a-story-of-my-first-gold-medal-in-one-kaggle-competition-things-done-and-lessons-learned-c269d9c233d1)
   * Paper: [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
+
+### Visual Transformer
+
+ - [Deepmind releases a new State-Of-The-Art Image Classification model — NFNets](https://towardsdatascience.com/deepmind-releases-a-new-state-of-the-art-image-classification-model-nfnets-75c0b3f37312)
+ - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar
+ - [Transformers for Image Recognition at Scale](https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html) by Google blog
+ - Paper: [Visual Transformers: Token-based Image Representation and Processing for Computer Vision](https://arxiv.org/abs/2006.03677) and its [Code](https://github.com/tahmid0007/VisualTransformers)
+ - Discussion: [Discussion in ViT](https://openreview.net/forum?id=YicbFdNTTy)
+ - Code: [Vision Transformer - Pytorch](https://github.com/lucidrains/vit-pytorch)
