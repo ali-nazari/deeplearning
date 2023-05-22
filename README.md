@@ -5,6 +5,7 @@
 ## **Index:**
 - [Good Lectures in Deep learning](#lecture)
 - [Datasets for Deep Learning](#datasets)
+- [Data Preparation](#data_preparation)
 - [Lab: Tools and Codes](#lab)
     <br/>1. [Data Processing in Tensorflow](#dataprocessingTF)
     <br/>2. [Decoration in Tensorflow](#decoration)
@@ -40,7 +41,14 @@
   * Blog: [Visual Data](https://www.visualdata.io)
   * Blog: [PathMind](https://pathmind.com/wiki/open-datasets)
   * Blog: [Flickr-Faces-HQ Dataset (FFHQ)](https://github.com/NVlabs/ffhq-dataset)
+  * Blog: [Built-in datasets of PyTorch](https://pytorch.org/vision/stable/datasets.html)
 
+### <a name="data_preparation"></a>Data Perparation
+* Blog: [Data preparation with Dataset and DataLoader in Pytorch](https://aigeekprogrammer.com/data-preparation-with-dataset-and-dataloader-in-pytorch/)
+* Blog: [Data Visualization Data and Splitting Dataset?](https://www.scaler.com/topics/pytorch/how-to-split-a-torch-dataset/)
+* Blog: [PyTorch Custom Datasets](https://github.com/mrdbourke/pytorch-deep-learning/blob/main/04_pytorch_custom_datasets.ipynb)
+* Blog: [PyTorch's Tools](https://pytorch.org/docs/stable/data.html)
+* Blog: [WRITING CUSTOM DATASETS, DATALOADERS AND TRANSFORMS](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)
 
 ### <a name="lab"></a> Lab: Tools and Codes
   * Blog: [Step-by-step Guide to Install TensorFlow 2](https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265)
